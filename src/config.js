@@ -53,7 +53,7 @@ const config = {
 
 	//社交按钮
 	socialPlatformIcons: [
-		{ icon: "mdi-github", link: "https://www.github.com/leleo886" },
+		{ icon: "mdi-github", link: "https://github.com/SEM-Jincheng" },
 		{ icon: "mdi-email", link: "mailto:Ahorer@foxmail.com" },
 		{ icon: "mdi-qqchat", link: "tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=609652265&website=www.oicqzone.com" },
 		{ icon: "mdi-wechat", link: "weixin://contacts/profile/{Ahorer}" },
