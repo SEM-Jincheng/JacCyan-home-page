@@ -1,9 +1,9 @@
 const config = {
 	//网页元数据
 	metaData: {
-		title: 'Leleo的个人主页🎉',
-		description: '欢迎来到Leleo的奇妙世界！',
-		keywords: 'Leleo,leleo,个人主页,个人网站',
+		title: '锦城的个人主页🎉',
+		description: '欢迎来到锦城的奇妙世界！',
+		keywords: '锦城,JacCyan,个人主页,个人网站',
 		icon: '/favicon.ico'   //网页图标，支持外链
 	},
 
@@ -22,7 +22,7 @@ const config = {
 	blur: 5, // 毛玻璃模糊效果
 
 	// 我的标签
-	tags: ['乐观开朗', '温柔体贴', '随和亲切', '冷静沉着', '才思敏捷', '风趣幽默', '刚正不阿', '善解人意'],
+	tags: ['CV', '编程', '剧作家', '乐器达人', '演讲', 'Gamer'],
 
 	// 默认背景壁纸
 	background: {
@@ -54,9 +54,9 @@ const config = {
 	//社交按钮
 	socialPlatformIcons: [
 		{ icon: "mdi-github", link: "https://www.github.com/leleo886" },
-		{ icon: "mdi-email", link: "mailto:leleo886@foxmail.com" },
-		{ icon: "mdi-qqchat", link: "https://im.qq.com/" },
-		{ icon: "mdi-wechat", link: "https://wx.qq.com/" },
+		{ icon: "mdi-email", link: "mailto:Ahorer@foxmail.com" },
+		{ icon: "mdi-qqchat", link: "tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=609652265&website=www.oicqzone.com" },
+		{ icon: "mdi-wechat", link: "weixin://contacts/profile/{Ahorer}" },
 		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
 		{ icon: "mdi-facebook", link: "https://www.facebook.com" }
 	],
@@ -138,7 +138,7 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "Project 1", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "Project 1", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "115.29.236.105:17616", show: false },
 		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "Project 2", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
