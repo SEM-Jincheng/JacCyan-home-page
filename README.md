@@ -1,4 +1,4 @@
-# leleo-home-page 个人主页
+# JacCyan-home-page 个人主页
 
 ## 目录
 - [项目简介](#项目简介)
@@ -31,7 +31,7 @@
 
 ## 演示地址
 
-[在线演示](https://leleo.top)
+[在线演示](https://JacCyan.top)
 
 ## 技术栈
 
@@ -48,13 +48,13 @@
 1. 克隆仓库：
 
 ```bash
-git clone https://github.com/leleo886/leleo-home-page.git
+git clone https://github.com/SEM-Jincheng/JacCyan-home-page.git
 ```
 
 2. 进入项目目录：
 
 ```bash
-cd leleo-home-page
+cd JacCyan-home-page
 ```
 
 3. 安装依赖：
@@ -68,22 +68,24 @@ npm install
 ```bash
 npm run dev
 ```
+>或者使用以下命令，关闭shh连接不会中断npm服务：
+nohup npm run dev > /path/to/output.log 2>&1 &
 
 ### Vercel在线部署
 
-> 无需服务器，点击链接一键在线部署到 [Vercel](https://vercel.com/new/clone?s=https://github.com/leleo886/leleo-home-page.git)（首先需要有github和vercel账号）
+> 无需服务器，点击链接一键在线部署到 [Vercel](https://vercel.com/new/clone?s=https://github.com/SEM-Jincheng/JacCyan-home-page.git)（首先需要有github和vercel账号）
 
-![Vercel部署步骤1](./img/leleo-home-page/1737785497852.png)
+![Vercel部署步骤1](./img/JacCyan-home-page/1737785497852.png)
 
 > ---登录vercel账号，并选择github关联账号，为项目取个名字，然后点击"Create"按钮开始部署
 
-![Vercel部署完成](./img/leleo-home-page/1737538980894.png)
+![Vercel部署完成](./img/JacCyan-home-page/1737538980894.png)
 
 > ---部署完成后，点击回到控制面板
 
-![Vercel控制面板](./img/leleo-home-page/1737539171658.png)
+![Vercel控制面板](./img/JacCyan-home-page/1737539171658.png)
 
-注意：Vercel提供的`.vercel.app`域名在中国大陆地区可能无法访问，所以建议绑定自定义域名。（若没有自己的域名，这里提供简单的[免费二级域名服务](https://sds.leleo.top)及本项目如何进行域名绑定的[说明](./img/domainToVercel.md)）
+注意：Vercel提供的`.vercel.app`域名在中国大陆地区可能无法访问，所以建议绑定自定义域名。（若没有自己的域名，这里提供简单的[免费二级域名服务](https://sds.JacCyan.top)及本项目如何进行域名绑定的[说明](./img/domainToVercel.md)）
 
 ### CloudFlare Pages 在线部署
 
@@ -93,17 +95,17 @@ npm run dev
    
 2. 登录CloudFlare并点击左侧栏目中"计算(workers)"底下的"Workers 和 Pages"
 
-![Workers页](./img/leleo-home-page/IMG_20250813_122124.jpg)
+![Workers页](./img/JacCyan-home-page/IMG_20250813_122124.jpg)
 
 3. 点击右上角"创建"，选择"Pages"，点击"导入现有 Git 存储库"右侧的"开始使用"
 
-![创建页](./img/leleo-home-page/IMG_20250813_122156.jpg)
+![创建页](./img/JacCyan-home-page/IMG_20250813_122156.jpg)
 
 4. 点击"连接 Github"，并登录你的 Github 账号
 
-5. 选择项目存储库(如果你没有更名那应该是"leleo-home-page")并开始设置，在接下来的页面中框架预设选择`Vue`(如果不选择，你的网站会访问为空白)，点击保存并部署
+5. 选择项目存储库(如果你没有更名那应该是"JacCyan-home-page")并开始设置，在接下来的页面中框架预设选择`Vue`(如果不选择，你的网站会访问为空白)，点击保存并部署
 
-![配置页](./img/leleo-home-page/IMG_20250813_122251.jpg)
+![配置页](./img/JacCyan-home-page/IMG_20250813_122251.jpg)
 
 此时，项目已经部署完成，可以直接点击上方链接预览
 
@@ -128,21 +130,21 @@ npm run dev
 #### vercel部署
 
 > (1). 首先还是打开vercel中本项目主面板，然后依次点击`Settings`、`Environments`、`Production`
-![Vercel控制面板](./img/leleo-home-page/1737624788108.png)
+![Vercel控制面板](./img/JacCyan-home-page/1737624788108.png)
 
 > (2). 然后下翻点击`Add Environment Variable`按钮，要求填入`Key`值为`VITE_CONFIG`,`Value`值如[环境变量值](./img/env.md)所示，全部复制粘贴即可（有点多），根据个人情况自定义修改，配置说明同方法1。
-![Vercel控制面板](./img/leleo-home-page/1737625015472.png)
+![Vercel控制面板](./img/JacCyan-home-page/1737625015472.png)
 
 > (3). 回到项目主面板，依次点击`Project`、`Build Logs`，进入新页面后再找到`Redeploy`。最后等待重新部署完成即可。
-![Vercel控制面板](./img/leleo-home-page/1737626184576.png)
-![Vercel控制面板](./img/leleo-home-page/1737626397809.png)
+![Vercel控制面板](./img/JacCyan-home-page/1737626184576.png)
+![Vercel控制面板](./img/JacCyan-home-page/1737626397809.png)
 
 #### CloudFlare部署
 
 > (1). 到你的Pages项目，点击"设置"，找到"变量和机密"点击右侧"添加"
-![设置页](./img/leleo-home-page/IMG_20250813_125718.jpg)
+![设置页](./img/JacCyan-home-page/IMG_20250813_125718.jpg)
 
 > (2). 要求填入"变量名称"为`VITE_CONFIG`,"值"如[环境变量值](./img/env.md)所示，全部复制粘贴即可（有点多），根据个人情况自定义修改，配置说明同方法1
 
 > (3). 点击"部署"，找到左侧带绿条的那个点击右侧三个点"重试部署" 等待部署完成即可
-![重试部署](./img/leleo-home-page/IMG_20250813_131021.jpg)
+![重试部署](./img/JacCyan-home-page/IMG_20250813_131021.jpg)

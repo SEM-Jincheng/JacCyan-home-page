@@ -138,8 +138,8 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "JellyFin", subtitle: "这里是我的Jellyfin媒体服务器，欢迎使用！访客账户guest无密码", text: "这里是我的Jellyfin媒体服务器，欢迎使用！访客账户guest无密码", url: "http://115.29.236.105:17616", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "盘搜", subtitle: "有想看的电影电视剧，却苦于找不到网盘资源吗？试试这个吧！", text: "有想看的电影电视剧，却苦于找不到网盘资源吗？试试这个吧！", url: "http://115.29.236.105:12280", show: false },
+		{ go: "🚀 前往", img: "/img/jellyfin.png", title: "JellyFin", subtitle: "这里是我的Jellyfin媒体服务器，欢迎使用！访客账户guest无密码", text: "这里是我的Jellyfin媒体服务器，欢迎使用！访客账户guest无密码", url: "https://jellyfin.jaccyan.top/", show: false },
+		{ go: "🗂️ 前往", img: "/img/panso.png", title: "盘搜", subtitle: "有想看的电影电视剧，却苦于找不到网盘资源吗？试试这个吧！", text: "有想看的电影电视剧，却苦于找不到网盘资源吗？试试这个吧！", url: "https://panso.jaccyan.top/", show: false },
 		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
