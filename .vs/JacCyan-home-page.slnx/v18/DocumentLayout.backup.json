@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\vs project\\JacCyan-home-page\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vs project\\JacCyan-home-page\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vs project\\JacCyan-home-page\\img\\Jellyfin.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:img\\Jellyfin.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
@@ -47,18 +51,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\vs project\\JacCyan-home-page\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "E:\\vs project\\JacCyan-home-page\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-26T18:12:48.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Jellyfin.png",
               "DocumentMoniker": "E:\\vs project\\JacCyan-home-page\\img\\Jellyfin.png",
               "RelativeDocumentMoniker": "img\\Jellyfin.png",
               "ToolTip": "E:\\vs project\\JacCyan-home-page\\img\\Jellyfin.png",
               "RelativeToolTip": "img\\Jellyfin.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-12-26T18:09:07.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T18:09:07.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "config.md",
               "DocumentMoniker": "E:\\vs project\\JacCyan-home-page\\img\\config.md",
               "RelativeDocumentMoniker": "img\\config.md",
@@ -66,12 +82,11 @@
               "RelativeToolTip": "img\\config.md",
               "ViewState": "AgIAAGAAAAAAAAAAAAAAAH4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-12-26T17:57:36.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T17:57:36.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "style.css",
               "DocumentMoniker": "E:\\vs project\\JacCyan-home-page\\public\\css\\style.css",
               "RelativeDocumentMoniker": "public\\css\\style.css",
@@ -79,12 +94,11 @@
               "RelativeToolTip": "public\\css\\style.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-26T17:56:55.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T17:56:55.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "App.vue",
               "DocumentMoniker": "E:\\vs project\\JacCyan-home-page\\src\\App.vue",
               "RelativeDocumentMoniker": "src\\App.vue",
@@ -92,16 +106,11 @@
               "RelativeToolTip": "src\\App.vue",
               "ViewState": "AgIAAGoAAAAAAAAAAAASwIUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2025-12-26T17:55:31.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-12-26T17:55:31.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "config.js",
               "DocumentMoniker": "E:\\vs project\\JacCyan-home-page\\src\\config.js",
               "RelativeDocumentMoniker": "src\\config.js",
@@ -109,8 +118,7 @@
               "RelativeToolTip": "src\\config.js",
               "ViewState": "AgIAAHUAAAAAAAAAAAAgwIQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-12-26T17:43:08.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T17:43:08.037Z"
             }
           ]
         }

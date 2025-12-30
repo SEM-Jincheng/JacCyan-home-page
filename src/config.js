@@ -140,12 +140,12 @@ const config = {
 	projectcards: [
 		{ go: "🚀 前往", img: "/img/jellyfin.png", title: "JellyFin", subtitle: "这里是我的Jellyfin媒体服务器，欢迎使用！访客账户guest无密码", text: "这里是我的Jellyfin媒体服务器，欢迎使用！访客账户guest无密码", url: "https://jellyfin.jaccyan.top/", show: false },
 		{ go: "🗂️ 前往", img: "/img/panso.png", title: "盘搜", subtitle: "有想看的电影电视剧，却苦于找不到网盘资源吗？试试这个吧！", text: "有想看的电影电视剧，却苦于找不到网盘资源吗？试试这个吧！", url: "https://panso.jaccyan.top/", show: false },
-		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "Project 6", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "Project 7", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "📝 前往", img: "/img/it.png", title: "IT工具集", subtitle: "IT相关的工具，我都有！", text: "IT相关的工具，我都有！", url: "https://it-tools.jaccyan.top", show: false },
+		{ go: "👍 前往", img: "/img/reference.png", title: "编程语言参考", subtitle: "年轻人，老夫看你骨骼精奇，这一份武林秘籍便送给你吧！", text: "年轻人，老夫看你骨骼精奇，这一份武林秘籍便送给你吧！", url: "https://quickreference.jaccyan.top", show: false },
+		{ go: "🗃 前往", img: "/img/mind.png", title: "思维导图工具", subtitle: "想要一款轻量化无需下载的思维导图工具吗？试试这个！", text: "想要一款轻量化无需下载的思维导图工具吗？试试这个！", url: "https://mind.jaccyan.top", show: false },
+		{ go: "🎨 前往", img: "/img/baichuan.png", title: "百川工具集", subtitle: "千川？不，我是百川。", text: "千川？不，我是百川。", url: "https://100chuan.jaccyan.top", show: false },
+		{ go: "💍 前往", img: "/img/astrbot.png", title: "AstrBot", subtitle: "wow，一只定制猫娘！", text: "可惜你没有权限访问它。", url: "https://astrbot.jaccyan.top", show: false },
+		{ go: "🔍 前往", img: "/img/napcat.png", title: "Napcat", subtitle: "这里是猫娘的服务器，想看看里面都有什么吗？", text: "巧了，你也无权访问。", url: "https://napcat.jaccyan.top", show: false },
 	],
 
 	statement: ["备案号：豫ICP备2025159834号", "Copyright © 2025 Leleo"],
